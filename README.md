@@ -2,7 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo
+
+<div style="display:flex; justify-content: space-around;">
+  <img width="180px" src="./public/22.jpg" alt="hi">
+  <img width="180px" src="./public/33.jpg" alt="hi">
+</div>
 ## Available Scripts
+
+###Scripts
+"start": "react-scripts start",
+"build": "react-scripts build",\*/
 
 In the project directory, you can run:
 
